@@ -50,6 +50,7 @@ CRIAR FONTE(V,30) fonte3;
 CONECTAR resistor2 A EM fonte3;"`
 
 ## Sobre o projeto
+Para o desenvolvimento, foi utilizado o ANTLR com as técnicas que foram ensinadas na disciplina de Compiladores2024.1.
 Por agora, a linguagem apenas armazena o resultado dos inputs na memória e imprime as variáveis criadas como representação de cada componente do circuito e sua conexões no console, não sendo possível dentro dos limites de tempo e escopo do projeto finalizar a simulação do estado do circuito.
 
 Além da linguagem, o projeto conta com a classe (não finalizada) "CircuitSolver" que, como o nome implica, realizaria a solução do circuito por meio de análise nodal.
