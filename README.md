@@ -5,7 +5,7 @@ Franciele Silva de França
 
 
 # Linguagem para Circuitos Eletrônicos (LCE)
-Neste projeto foi criada a Linguagem para Circutuios Eletrônicos (LCE) para fins decriação e análise de componentes eletrônicos.
+Neste projeto foi criada a Linguagem para Circutuios Eletrônicos (LCE) para fins de criação e análise de componentes eletrônicos.
 
 ## Estrutura
 a linguagem possui dois comandos: `CRIAR` e `CONECTAR`
