@@ -1,7 +1,7 @@
 ### Alunos
-Anaclécio Ribeiro Brederodes Campos
-Brenno Pinto Lapa Rego Lima
-Franciele Silva de França
+Anaclécio Ribeiro Brederodes Campos  
+Brenno Pinto Lapa Rego Lima  
+Franciele Silva de França  
 
 
 # Linguagem para Circuitos Eletrônicos (LCE)
