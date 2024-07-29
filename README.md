@@ -35,7 +35,7 @@ A seguinte linha cria uma fonte de corrente de 30 volts chamada "fonte4":
 
 A seguinte linha conecta a entrada A do componente chamado "resistor1" ao nó "no1":
 
-CONECTAR resistor1 A EM no1;
+`CONECTAR resistor1 A EM no1;`
 
 ## Como utilizar
 Utilize o comando `java -cp "antlr-4.13.1-complete.jar;classes" MainLCE [string do seu programa]` para executar o programa.
